@@ -2,10 +2,10 @@
 
 This repository showcases the work completed during my *Full Stack Python Developer Internship*, which spanned 50 days. The internship was designed to build a strong foundation in both front-end and back-end technologies, with specific focus areas in each phase:
 
-> Days 1-10: HTML & CSS
-> Days 11-30: JavaScript
-> Days 31-40: SQL
-> Days 41-50: Python
+ Days 1-10: HTML & CSS
+ Days 11-30: JavaScript
+ Days 31-40: SQL
+ Days 41-50: Python
 
 ## Internship Breakdown
 
