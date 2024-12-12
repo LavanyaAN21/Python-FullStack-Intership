@@ -57,8 +57,8 @@ Integrating databases with Python.
 
 ---
 ### Technologies Used
-HTML: Structuring web content.
-CSS: Styling and responsive web design.
-JavaScript: Adding interactivity and dynamic functionality.
-SQL: Database management and queries.
-Python: Server-side programming and web application development.
+- HTML: Structuring web content.
+- CSS: Styling and responsive web design.
+- JavaScript: Adding interactivity and dynamic functionality.
+- SQL: Database management and queries.
+- Python: Server-side programming and web application development.
