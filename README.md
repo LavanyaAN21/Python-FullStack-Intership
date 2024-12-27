@@ -62,3 +62,5 @@ Integrating databases with Python.
 - JavaScript: Adding interactivity and dynamic functionality.
 - SQL: Database management and queries.
 - Python: Server-side programming and web application development.
+
+This internship helped me develop a comprehensive understanding of full-stack development, with hands-on experience in building dynamic and data-driven web applications. I gained essential skills for both front-end and back-end technologies, setting a strong foundation for future web development projects.
